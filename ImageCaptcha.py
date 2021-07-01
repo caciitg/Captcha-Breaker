@@ -1,6 +1,5 @@
 exec(open("imp_statements.py").read())
 exec(open("img_class.py").read())
-exec(open("model_init.py").read())
 
 import timm
 
